@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <app.runtime>4.11.2</app.runtime>
-        <mule.maven.plugin.version>4.5.0</mule.maven.plugin.version>
+        <mule.maven.plugin.version>3.8.2</mule.maven.plugin.version>
     </properties>
     
     <build>
@@ -40,6 +40,7 @@
     <target>Cloudhub-US-East-2</target>
     <replicas>1</replicas>
     <vCores>0.1</vCores>
+    <businessGroupId>db200b9f-b5f5-4b86-a319-d5ab902737c1</businessGroupId>
 </cloudhub2Deployment>
                 </configuration>
             </plugin>
@@ -78,4 +79,12 @@
             <classifier>mule-plugin</classifier>
         </dependency>
     </dependencies>
+<distributionManagement>
+    <repository>
+        <id>anypoint-exchange-v3</id>
+        <name>Anypoint Exchange</name>
+        <url>https://maven.anypoint.mulesoft.com/api/v3/organizations/db200b9f-b5f5-4b86-a319-d5ab902737c1/maven</url>
+        <layout>default</layout>
+    </repository>
+</distributionManagement>
 </project>
