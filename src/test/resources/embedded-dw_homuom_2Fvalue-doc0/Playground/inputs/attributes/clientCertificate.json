@@ -1,0 +1,76 @@
+{
+  "basicConstraints": 51,
+  "criticalExtensionOIDs": [
+    "tincidunt",
+    "vitae",
+    "Aliquam"
+  ],
+  "extendedKeyUsage": [
+    "Lorem",
+    "tempor",
+    "convallis"
+  ],
+  "extensions": [
+    {
+      "criticality": true,
+      "oid": "at"
+    }
+  ],
+  "issuerAlternativeNames": [
+    {
+      "name": "Adelina",
+      "type": 86
+    }
+  ],
+  "issuerDN": {
+    "commonName": "aliquam",
+    "name": "Alesha"
+  },
+  "issuerUniqueID": [
+    true,
+    true
+  ],
+  "issuerX500Principal": {
+    "name": "Anastacia"
+  },
+  "keyUsage": [
+    false,
+    true,
+    false
+  ],
+  "name": "Alonso",
+  "nonCriticalExtensionOIDs": [
+    "molestie",
+    "sit",
+    "justo"
+  ],
+  "notAfter": "2021-08-16",
+  "notBefore": "2025-11-14",
+  "publicKey": {
+    "algorithm": "erat",
+    "modulus": 88,
+    "params": 16,
+    "publicKey": "Nam"
+  },
+  "serialNumber": 97,
+  "serialNumberObject": {
+    "serialNumber": 39
+  },
+  "sigAlgName": "Pellentesque",
+  "sigAlgOID": "erat",
+  "subjectAlternativeNames": [
+    {
+      "name": "Ailene",
+      "type": 14
+    }
+  ],
+  "subjectDN": {
+    "commonName": "viverra",
+    "name": "Alden"
+  },
+  "subjectX500Principal": {
+    "name": "Bryce"
+  },
+  "type": "a",
+  "version": 7
+}

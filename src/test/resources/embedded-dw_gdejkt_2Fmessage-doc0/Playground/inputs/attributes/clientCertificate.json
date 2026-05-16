@@ -1,0 +1,73 @@
+{
+  "basicConstraints": 87,
+  "criticalExtensionOIDs": [
+    "faucibus",
+    "In"
+  ],
+  "extendedKeyUsage": [
+    "libero",
+    "adipiscing"
+  ],
+  "extensions": [
+    {
+      "criticality": false,
+      "oid": "molestie"
+    }
+  ],
+  "issuerAlternativeNames": [
+    {
+      "name": "Adele",
+      "type": 55
+    }
+  ],
+  "issuerDN": {
+    "commonName": "Lorem",
+    "name": "Danial"
+  },
+  "issuerUniqueID": [
+    false,
+    false
+  ],
+  "issuerX500Principal": {
+    "name": "Althea"
+  },
+  "keyUsage": [
+    false,
+    false
+  ],
+  "name": "Aleshia",
+  "nonCriticalExtensionOIDs": [
+    "dui",
+    "adipiscing",
+    "Fusce"
+  ],
+  "notAfter": "2024-03-06",
+  "notBefore": "2025-06-26",
+  "publicKey": {
+    "algorithm": "felis",
+    "modulus": 70,
+    "params": 91,
+    "publicKey": "consectetur"
+  },
+  "serialNumber": 92,
+  "serialNumberObject": {
+    "serialNumber": 9
+  },
+  "sigAlgName": "semper",
+  "sigAlgOID": "lectus",
+  "subjectAlternativeNames": [
+    {
+      "name": "Conrad",
+      "type": 19
+    }
+  ],
+  "subjectDN": {
+    "commonName": "eget",
+    "name": "Aisha"
+  },
+  "subjectX500Principal": {
+    "name": "Adeline"
+  },
+  "type": "Nunc",
+  "version": 35
+}
