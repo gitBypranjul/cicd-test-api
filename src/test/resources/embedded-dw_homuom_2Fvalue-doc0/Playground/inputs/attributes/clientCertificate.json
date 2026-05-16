@@ -1,76 +1,74 @@
 {
-  "basicConstraints": 51,
+  "basicConstraints": 0,
   "criticalExtensionOIDs": [
-    "tincidunt",
-    "vitae",
-    "Aliquam"
+    "eget",
+    "justo"
   ],
   "extendedKeyUsage": [
     "Lorem",
-    "tempor",
-    "convallis"
+    "sit"
   ],
   "extensions": [
     {
-      "criticality": true,
-      "oid": "at"
+      "criticality": false,
+      "oid": "faucibus"
     }
   ],
   "issuerAlternativeNames": [
     {
-      "name": "Adelina",
-      "type": 86
+      "name": "Aleshia",
+      "type": 90
     }
   ],
   "issuerDN": {
-    "commonName": "aliquam",
-    "name": "Alesha"
+    "commonName": "Aliquam",
+    "name": "Dale"
   },
   "issuerUniqueID": [
-    true,
-    true
-  ],
-  "issuerX500Principal": {
-    "name": "Anastacia"
-  },
-  "keyUsage": [
     false,
-    true,
     false
   ],
-  "name": "Alonso",
-  "nonCriticalExtensionOIDs": [
-    "molestie",
-    "sit",
-    "justo"
+  "issuerX500Principal": {
+    "name": "Bud"
+  },
+  "keyUsage": [
+    true,
+    false,
+    false
   ],
-  "notAfter": "2021-08-16",
-  "notBefore": "2025-11-14",
+  "name": "Adena",
+  "nonCriticalExtensionOIDs": [
+    "mi",
+    "Nunc",
+    "molestie"
+  ],
+  "notAfter": "2023-09-29",
+  "notBefore": "2024-07-31",
   "publicKey": {
-    "algorithm": "erat",
-    "modulus": 88,
-    "params": 16,
-    "publicKey": "Nam"
+    "algorithm": "adipiscing",
+    "modulus": 19,
+    "params": 31,
+    "publicKey": "lorem"
   },
-  "serialNumber": 97,
+  "serialNumber": 20,
   "serialNumberObject": {
-    "serialNumber": 39
+    "serialNumber": 78
   },
-  "sigAlgName": "Pellentesque",
-  "sigAlgOID": "erat",
+  "sigAlgName": "ut",
+  "sigAlgOID": "ut",
   "subjectAlternativeNames": [
     {
-      "name": "Ailene",
-      "type": 14
+      "name": "Corey",
+      "type": 63
     }
   ],
   "subjectDN": {
-    "commonName": "viverra",
-    "name": "Alden"
+    "commonName": "nisi",
+    "name": "Damon"
   },
   "subjectX500Principal": {
-    "name": "Bryce"
+    "name": "Alba"
   },
-  "type": "a",
-  "version": 7
+  "type": "lectus",
+  "version": 14
 }
