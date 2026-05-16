@@ -29,17 +29,18 @@
                 <version>${mule.maven.plugin.version}</version>
                 <extensions>true</extensions>
                 <configuration>
- <cloudHub2Deployment>
+ <cloudhub2Deployment>
     <uri>https://anypoint.mulesoft.com</uri>
+    <provider>MC</provider>
     <muleVersion>${app.runtime}</muleVersion>
     <username>${anypoint.username}</username>
     <password>${anypoint.password}</password>
     <applicationName>cicd-test-api</applicationName>
     <environment>Sandbox</environment>
+    <target>Cloudhub-US-East-2</target>
     <replicas>1</replicas>
-    <replicaSize>0.1</replicaSize>
-    <businessGroupId>db200b9f-b5f5-4b86-a319-d5ab902737c1</businessGroupId>
-</cloudHub2Deployment>
+    <vCores>0.1</vCores>
+</cloudhub2Deployment>
                 </configuration>
             </plugin>
         </plugins>
